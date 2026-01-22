@@ -1,0 +1,15 @@
+====================================================
+     BANKING CYBER DEFENSE SIMULATION REPORT
+     Generated on: 2026-01-22 11:17:20
+====================================================
+
+1. ARCHITECTURE STATUS
+- Core_DB: Status: Healthy | Security: Lvl 11
+- ATM_1: Status: ⚠️ BREACHED | Security: Lvl 6
+
+2. FINANCIAL OVERVIEW
+- Remaining Defense Budget: 400 Credits
+- Systemic Health Score: 75.0%
+
+3. RISK ASSESSMENT
+STABLE: Defenses are sufficient for current threat levels.

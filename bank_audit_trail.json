@@ -1,0 +1,23 @@
+[
+    {
+        "timestamp": "2026-01-22 11:20:36",
+        "event_type": "ATTACK",
+        "target_node": "ATM_1",
+        "description": "Brute force attempt detected",
+        "compliance_status": "FAILED"
+    },
+    {
+        "timestamp": "2026-01-22 11:20:36",
+        "event_type": "DEFENSE",
+        "target_node": "Core_DB",
+        "description": "Upgraded security to Lvl 12",
+        "compliance_status": "SUCCESS"
+    },
+    {
+        "timestamp": "2026-01-22 11:20:36",
+        "event_type": "COMPLIANCE",
+        "target_node": "System",
+        "description": "Quarterly risk assessment completed",
+        "compliance_status": "VERIFIED"
+    }
+]

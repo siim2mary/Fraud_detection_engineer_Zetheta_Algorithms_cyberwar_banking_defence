@@ -1,0 +1,26 @@
+[
+    {
+        "time": "11:39:42",
+        "event": "DEFENSE",
+        "target": "ATM_1",
+        "detail": "Security level hardened."
+    },
+    {
+        "time": "11:39:37",
+        "event": "CRITICAL",
+        "target": "Mobile_Gateway",
+        "detail": "Successful Ransomware attack."
+    },
+    {
+        "time": "11:39:33",
+        "event": "INFO",
+        "target": "SWIFT_Node",
+        "detail": "Blocked DDoS attempt."
+    },
+    {
+        "time": "11:39:24",
+        "event": "RECOVERY",
+        "target": "System",
+        "detail": "All nodes restored to Healthy state."
+    }
+]
